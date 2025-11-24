@@ -1,0 +1,11 @@
+// 타입스크립트 -> 자바스크립트 변환하기 위한 설정값을 적는 파일!
+
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "es6",
+    "module": "commonjs",
+    "lib": ["es6"],
+    "sourceMap": true
+  },
+}
