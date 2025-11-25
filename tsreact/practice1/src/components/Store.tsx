@@ -9,7 +9,7 @@ interface OwnProps{
     info:Restaurant
 }
 
-const Store = ({info}:OwnProps) => {
+const Store = () => {
   return (
     <div>
       Store
